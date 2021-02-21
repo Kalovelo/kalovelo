@@ -23,10 +23,10 @@ WordPress ✿
 - <a href="https://github.com/Kalovelo/woocommerce-discount-except-most-expensive-or-cheapest-product" target="_blank">Woocommerce discount except most expensive or cheapest product </a> - A name-explanatory **Woocommerce plugin**
 
 Group Projects ⛰️
-- <a href="https://github.com/TricoreGr/freebieverse" target="_blank"> - Freebieverse </a> A **Django** content aggregator website showing all the limited FREE deals
-- <a href="https://github.com/TricoreGr/CAH" target="_blank"> CAH </a> - **A Vue / Flask / Socket.io** online game based on the famous Cards Against Humanity ice-breaker
+- <a href="https://github.com/TricoreGr/freebieverse" target="_blank"> Freebieverse </a> - **Django** content aggregator website showing all the limited FREE deals  
+- <a href="https://github.com/TricoreGr/CAH" target="_blank"> CAH </a> - **Vue / Flask / Socket.io** online game based on the famous Cards Against Humanity ice-breaker
 
 Other 🍀
-- <a href="https://github.com/Kalovelo/biznames" target="_blank">Biznames </a> - A business Username Generator for **Active Directory**. Used for HTB challenges  
+- <a href="https://github.com/Kalovelo/biznames" target="_blank">Biznames </a> - Business Username Generator for **Active Directory**. Used for HTB challenges  
 - <a href="https://github.com/Kalovelo/blender-cottage-scene" target="_blank">Blender Cottage Scene (Assignment) </a> - A **Blender** animation scene   
 - <a href="https://github.com/Kalovelo/biznames" target="_blank">CrashPP (Assignment) </a> - **Unity** & Vuforia AR mobile application  
