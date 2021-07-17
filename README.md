@@ -5,12 +5,16 @@ I am Apostolos, a **CS student** coming straight out of the olives and oregano c
 <details>
   <summary>Repos Breakdown 🏕️</summary> 
 
-#### Front-End 🌹 
+#### Tools 🌹
+- <a href="https://mokkup.netlify.app/" target="_blank">Mokkup</a> -  An image glow up application written in **React**, for social media or your portfolio.  
+
+  
+#### Jamstack 🌻
 - <a href="https://github.com/Kalovelo/feels-like-home" target="_blank">Feels like home</a> - My personal website using **Gatsby**
 - <a href="https://github.com/Kalovelo/colourful-presentation" target="_blank"> A Colourful Presentation </a> -  The **Gatsby** front-end of of the colourful presentation website using **Strapi** as a headless CMS
-
-#### Back-End 🍁
-- <a href="https://github.com/Kalovelo/a-colourful-api" target="_blank">A Colourful Api</a> - An archived **Nodejs** API for the colourful presentation website before sailing to JamStack
+  
+  
+  
 
 #### Machine Learning 🌳
 - <a href="https://github.com/Kalovelo/pneumonia-detection-kaggle" target="_blank"> Pneumonia Detection </a> - A jupyter notebook and a winner submission of an in-class **Kaggle** competition 
