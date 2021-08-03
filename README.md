@@ -7,6 +7,8 @@ I am Apostolos, a **CS student** coming straight out of the olives and oregano c
 
 #### Tools 🌹
 - <a href="https://mokkup.netlify.app/" target="_blank">Mokkup</a> -  An image glow up application written in **React**, for social media or your portfolio.  
+- <a href="https://github.com/Kalovelo/greek-name-declension.js" target="_blank">greek-name-declension.js</a> -  A 0 dep JS package for 
+displaying Gree k names in the correct declension.
 
   
 #### Jamstack 🌻
