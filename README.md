@@ -3,9 +3,9 @@
 I am Apostolos, a **CS student** coming straight out of the olives and oregano country, Greece. 
 
 ### 🍃 Open-source portfolio highlights  
- <a href="https://github.com/Kalovelo/mokkup"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=kalovelo&repo=mokkup&bg_color=2b383d&text_color=FFFFFF&title_color=E3C567&hide_border=true" alt="github-readme-streak-stats"></a>
-<a href="https://github.com/Kalovelo/greek-name-declension.js"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=kalovelo&repo=greek-name-declension.js&bg_color=2b383d&text_color=FFFFFF&title_color=E3C567&hide_border=true" alt="github-readme-streak-stats"></a>
-<a href="https://github.com/Kalovelo/colourful-presentation"><img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=kalovelo&repo=colourful-presentation&bg_color=2b383d&text_color=FFFFFF&title_color=E3C567&hide_border=true" alt="github-readme-streak-stats"></a>
+ <a href="https://github.com/Kalovelo/mokkup"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=kalovelo&repo=mokkup&bg_color=2b383d&text_color=FFFFFF&title_color=E3C567&hide_border=true" alt="github-readme-streak-stats"></a>
+<a href="https://github.com/Kalovelo/greek-name-declension.js"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=kalovelo&repo=greek-name-declension.js&bg_color=2b383d&text_color=FFFFFF&title_color=E3C567&hide_border=true" alt="github-readme-streak-stats"></a>
+<a href="https://github.com/Kalovelo/colourful-presentation"><img width="280" src="https://github-readme-stats.vercel.app/api/pin/?username=kalovelo&repo=colourful-presentation&bg_color=2b383d&text_color=FFFFFF&title_color=E3C567&hide_border=true" alt="github-readme-streak-stats"></a>
 
 <details>
   <summary>Repos Breakdown 🏕️</summary> 
