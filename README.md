@@ -1,6 +1,6 @@
 <h3 align="center"> Greetings! <img height="30px" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"> </h3>
 
-I am Apostolos, a **CS student** coming straight out of the olives and oregano country, Greece. 
+I am Apostolos, a **JS Developer** coming straight out of the olives and oregano country, Greece. 
 
 ### 🍃 Open-source portfolio highlights  
  <a href="https://github.com/Kalovelo/mokkup"><img width="270" src="https://github-readme-stats.vercel.app/api/pin/?username=kalovelo&repo=mokkup&bg_color=2b383d&text_color=FFFFFF&title_color=E3C567&hide_border=true" alt="github-readme-streak-stats"></a>
