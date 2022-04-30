@@ -26,8 +26,6 @@ displaying Gree k names in the correct declension.
 #### Machine Learning 🌳
 - <a href="https://github.com/Kalovelo/pneumonia-detection-kaggle" target="_blank"> Pneumonia Detection </a> - A jupyter notebook and a winner submission of an in-class **Kaggle** competition 
 
-#### WordPress ✿
-- <a href="https://github.com/Kalovelo/woocommerce-discount-except-most-expensive-or-cheapest-product" target="_blank">Woocommerce discount except most expensive or cheapest product </a> - A name-explanatory **Woocommerce plugin**
 
 #### Group Projects ⛰️
 - <a href="https://github.com/TricoreGr/freebieverse" target="_blank"> Freebieverse </a> - **Django** content aggregator website showing all the limited FREE deals  
